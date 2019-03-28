@@ -50,7 +50,7 @@ Choose the whitelist barcode file considering which 10X chemistry version used:
 - 10X v3.chemistry: `3M-february-2018.txt`
 > Download the `3M-february-2018.txt` file [here](https://drive.google.com/open?id=1-kMeT_asRhYu9dlCq6CkN49wDMrgcLXn), and save at `barcodes10X/` directory.
 
-Also, the length of UMI depends on 10X chemistry version so set `--bclen` if needed.
+Also, the length of UMI depends on 10X chemistry version so set `--umilen` if needed.
 - 10X v2.chemistry: `10` (default)
 - 10X v3.chemistry: `12`
 
